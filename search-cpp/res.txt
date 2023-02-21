@@ -1,0 +1,1938 @@
+==================================================
+==================bfs test3 round:0==============
+==================================================
+++++++++++++
+init:[8, 4, 3, 7, 0, 2, 5, 1, 6]
+target:[8, 5, 6, 7, 4, 1, 2, 0, 3]
++++++++++++++
+========== no random =============================
+summary:
+state count:168931
+max depth:6321
+========== random =============================
+summary:
+state count:66961
+max depth:603
+========== astar + h1 =============================
+summary:
+state count:227
+max depth:49
+========== astar + random + h1 =============================
+summary:
+state count:252
+max depth:53
+========== astar + h2 =============================
+summary:
+state count:234
+max depth:41
+========== astar + random + h2 =============================
+summary:
+state count:294
+max depth:61
+==================================================
+==================bfs test3 round:1==============
+==================================================
+++++++++++++
+init:[4, 6, 5, 2, 3, 1, 0, 8, 7]
+target:[5, 4, 2, 7, 1, 8, 0, 6, 3]
++++++++++++++
+========== no random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:6321
+========== random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:606
+========== astar + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:225
+========== astar + random + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:241
+========== astar + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:241
+========== astar + random + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:181
+==================================================
+==================bfs test3 round:2==============
+==================================================
+++++++++++++
+init:[6, 7, 1, 2, 0, 8, 3, 4, 5]
+target:[2, 0, 4, 6, 7, 3, 8, 5, 1]
++++++++++++++
+========== no random =============================
+summary:
+state count:88360
+max depth:3870
+========== random =============================
+summary:
+state count:49732
+max depth:509
+========== astar + h1 =============================
+summary:
+state count:605
+max depth:85
+========== astar + random + h1 =============================
+summary:
+state count:294
+max depth:49
+========== astar + h2 =============================
+summary:
+state count:648
+max depth:73
+========== astar + random + h2 =============================
+summary:
+state count:593
+max depth:79
+==================================================
+==================bfs test3 round:3==============
+==================================================
+++++++++++++
+init:[0, 8, 4, 3, 2, 6, 7, 1, 5]
+target:[2, 8, 3, 7, 0, 1, 5, 6, 4]
++++++++++++++
+========== no random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:6269
+========== random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:735
+========== astar + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:411
+========== astar + random + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:193
+========== astar + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:237
+========== astar + random + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:191
+==================================================
+==================bfs test3 round:4==============
+==================================================
+++++++++++++
+init:[5, 6, 8, 7, 2, 0, 3, 1, 4]
+target:[4, 6, 5, 7, 0, 1, 8, 3, 2]
++++++++++++++
+========== no random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:6374
+========== random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:624
+========== astar + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:268
+========== astar + random + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:268
+========== astar + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:216
+========== astar + random + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:204
+==================================================
+==================bfs test3 round:5==============
+==================================================
+++++++++++++
+init:[2, 8, 7, 0, 5, 1, 6, 3, 4]
+target:[5, 1, 6, 8, 3, 7, 2, 4, 0]
++++++++++++++
+========== no random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:6344
+========== random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:482
+========== astar + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:228
+========== astar + random + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:171
+========== astar + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:239
+========== astar + random + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:182
+==================================================
+==================bfs test3 round:6==============
+==================================================
+++++++++++++
+init:[4, 6, 1, 7, 0, 8, 5, 3, 2]
+target:[4, 0, 2, 3, 6, 5, 1, 8, 7]
++++++++++++++
+========== no random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:6321
+========== random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:457
+========== astar + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:262
+========== astar + random + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:178
+========== astar + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:206
+========== astar + random + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:201
+==================================================
+==================bfs test3 round:7==============
+==================================================
+++++++++++++
+init:[6, 5, 1, 8, 2, 7, 3, 4, 0]
+target:[2, 7, 0, 3, 5, 6, 8, 4, 1]
++++++++++++++
+========== no random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:6247
+========== random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:547
+========== astar + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:311
+========== astar + random + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:197
+========== astar + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:229
+========== astar + random + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:189
+==================================================
+==================bfs test3 round:8==============
+==================================================
+++++++++++++
+init:[4, 0, 2, 7, 5, 6, 3, 8, 1]
+target:[8, 0, 2, 7, 3, 4, 1, 6, 5]
++++++++++++++
+========== no random =============================
+summary:
+state count:106535
+max depth:4667
+========== random =============================
+summary:
+state count:56305
+max depth:438
+========== astar + h1 =============================
+summary:
+state count:380
+max depth:66
+========== astar + random + h1 =============================
+summary:
+state count:314
+max depth:64
+========== astar + h2 =============================
+summary:
+state count:318
+max depth:51
+========== astar + random + h2 =============================
+summary:
+state count:281
+max depth:40
+==================================================
+==================bfs test3 round:9==============
+==================================================
+++++++++++++
+init:[1, 7, 2, 0, 8, 3, 6, 4, 5]
+target:[3, 6, 2, 7, 4, 5, 0, 8, 1]
++++++++++++++
+========== no random =============================
+summary:
+state count:171828
+max depth:6344
+========== random =============================
+summary:
+state count:157524
+max depth:585
+========== astar + h1 =============================
+summary:
+state count:90
+max depth:35
+========== astar + random + h1 =============================
+summary:
+state count:175
+max depth:43
+========== astar + h2 =============================
+summary:
+state count:1212
+max depth:100
+========== astar + random + h2 =============================
+summary:
+state count:1060
+max depth:113
+==================================================
+==================dfs test3 round:0==============
+==================================================
+++++++++++++
+init:[8, 7, 3, 2, 5, 6, 0, 4, 1]
+target:[4, 2, 7, 8, 3, 0, 5, 1, 6]
++++++++++++++
+========== no random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:67098
+========== random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:67848
+========== astar + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:71366
+========== astar + random + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:70552
+========== astar + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:70190
+========== astar + random + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:69980
+==================================================
+==================dfs test3 round:1==============
+==================================================
+++++++++++++
+init:[5, 3, 1, 8, 7, 2, 6, 4, 0]
+target:[2, 1, 3, 7, 4, 6, 5, 8, 0]
++++++++++++++
+========== no random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:67100
+========== random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:67880
+========== astar + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:71164
+========== astar + random + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:69420
+========== astar + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:70301
+========== astar + random + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:69728
+==================================================
+==================dfs test3 round:2==============
+==================================================
+++++++++++++
+init:[4, 2, 0, 7, 8, 5, 6, 3, 1]
+target:[4, 7, 5, 2, 0, 8, 3, 6, 1]
++++++++++++++
+========== no random =============================
+search succeed!
+showing back trace
+37186:[4, 7, 5, 2, 0, 8, 3, 6, 1]
+summary:
+state count:177086
+max depth:66744
+========== random =============================
+search succeed!
+showing back trace
+33068:[4, 7, 5, 2, 0, 8, 3, 6, 1]
+summary:
+state count:177682
+max depth:67451
+========== astar + h1 =============================
+search succeed!
+showing back trace
+48:[4, 7, 5, 2, 0, 8, 3, 6, 1]
+summary:
+state count:95
+max depth:48
+========== astar + random + h1 =============================
+search succeed!
+showing back trace
+1286:[4, 7, 5, 2, 0, 8, 3, 6, 1]
+summary:
+state count:2506
+max depth:1286
+========== astar + h2 =============================
+search succeed!
+showing back trace
+34:[4, 7, 5, 2, 0, 8, 3, 6, 1]
+summary:
+state count:67
+max depth:34
+========== astar + random + h2 =============================
+search succeed!
+showing back trace
+278:[4, 7, 5, 2, 0, 8, 3, 6, 1]
+summary:
+state count:530
+max depth:278
+==================================================
+==================dfs test3 round:3==============
+==================================================
+++++++++++++
+init:[8, 5, 2, 4, 7, 3, 6, 0, 1]
+target:[6, 3, 4, 2, 0, 7, 1, 8, 5]
++++++++++++++
+========== no random =============================
+search succeed!
+showing back trace
+10829:[6, 3, 4, 2, 0, 7, 1, 8, 5]
+summary:
+state count:19651
+max depth:10829
+========== random =============================
+search succeed!
+showing back trace
+41323:[6, 3, 4, 2, 0, 7, 1, 8, 5]
+summary:
+state count:174544
+max depth:67392
+========== astar + h1 =============================
+search succeed!
+showing back trace
+721:[6, 3, 4, 2, 0, 7, 1, 8, 5]
+summary:
+state count:1399
+max depth:721
+========== astar + random + h1 =============================
+search succeed!
+showing back trace
+27:[6, 3, 4, 2, 0, 7, 1, 8, 5]
+summary:
+state count:55
+max depth:27
+========== astar + h2 =============================
+search succeed!
+showing back trace
+187:[6, 3, 4, 2, 0, 7, 1, 8, 5]
+summary:
+state count:352
+max depth:187
+========== astar + random + h2 =============================
+search succeed!
+showing back trace
+251:[6, 3, 4, 2, 0, 7, 1, 8, 5]
+summary:
+state count:491
+max depth:251
+==================================================
+==================dfs test3 round:4==============
+==================================================
+++++++++++++
+init:[2, 6, 8, 5, 4, 0, 1, 7, 3]
+target:[5, 7, 6, 4, 1, 3, 8, 0, 2]
++++++++++++++
+========== no random =============================
+search succeed!
+showing back trace
+27604:[5, 7, 6, 4, 1, 3, 8, 0, 2]
+summary:
+state count:49741
+max depth:27604
+========== random =============================
+search succeed!
+showing back trace
+54750:[5, 7, 6, 4, 1, 3, 8, 0, 2]
+summary:
+state count:100786
+max depth:54751
+========== astar + h1 =============================
+search succeed!
+showing back trace
+416:[5, 7, 6, 4, 1, 3, 8, 0, 2]
+summary:
+state count:793
+max depth:416
+========== astar + random + h1 =============================
+search succeed!
+showing back trace
+740:[5, 7, 6, 4, 1, 3, 8, 0, 2]
+summary:
+state count:1410
+max depth:740
+========== astar + h2 =============================
+search succeed!
+showing back trace
+2356:[5, 7, 6, 4, 1, 3, 8, 0, 2]
+summary:
+state count:4429
+max depth:2356
+========== astar + random + h2 =============================
+search succeed!
+showing back trace
+1286:[5, 7, 6, 4, 1, 3, 8, 0, 2]
+summary:
+state count:2474
+max depth:1286
+==================================================
+==================dfs test3 round:5==============
+==================================================
+++++++++++++
+init:[1, 2, 8, 7, 4, 6, 3, 0, 5]
+target:[6, 0, 5, 2, 1, 4, 3, 7, 8]
++++++++++++++
+========== no random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:67099
+========== random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:67631
+========== astar + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:70939
+========== astar + random + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:70477
+========== astar + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:70083
+========== astar + random + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:69153
+==================================================
+==================dfs test3 round:6==============
+==================================================
+++++++++++++
+init:[6, 8, 3, 7, 4, 0, 1, 5, 2]
+target:[1, 2, 7, 3, 0, 5, 6, 4, 8]
++++++++++++++
+========== no random =============================
+search succeed!
+showing back trace
+11329:[1, 2, 7, 3, 0, 5, 6, 4, 8]
+summary:
+state count:181170
+max depth:66997
+========== random =============================
+search succeed!
+showing back trace
+12359:[1, 2, 7, 3, 0, 5, 6, 4, 8]
+summary:
+state count:181015
+max depth:67379
+========== astar + h1 =============================
+search succeed!
+showing back trace
+1355:[1, 2, 7, 3, 0, 5, 6, 4, 8]
+summary:
+state count:2632
+max depth:1355
+========== astar + random + h1 =============================
+search succeed!
+showing back trace
+323:[1, 2, 7, 3, 0, 5, 6, 4, 8]
+summary:
+state count:636
+max depth:323
+========== astar + h2 =============================
+search succeed!
+showing back trace
+173:[1, 2, 7, 3, 0, 5, 6, 4, 8]
+summary:
+state count:328
+max depth:173
+========== astar + random + h2 =============================
+search succeed!
+showing back trace
+213:[1, 2, 7, 3, 0, 5, 6, 4, 8]
+summary:
+state count:408
+max depth:213
+==================================================
+==================dfs test3 round:7==============
+==================================================
+++++++++++++
+init:[8, 1, 6, 7, 3, 5, 0, 4, 2]
+target:[2, 6, 0, 7, 4, 5, 1, 8, 3]
++++++++++++++
+========== no random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:67098
+========== random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:67111
+========== astar + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:70553
+========== astar + random + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:69202
+========== astar + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:70526
+========== astar + random + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:69690
+==================================================
+==================dfs test3 round:8==============
+==================================================
+++++++++++++
+init:[5, 4, 7, 2, 6, 3, 0, 8, 1]
+target:[3, 0, 2, 6, 1, 8, 5, 4, 7]
++++++++++++++
+========== no random =============================
+search succeed!
+showing back trace
+57325:[3, 0, 2, 6, 1, 8, 5, 4, 7]
+summary:
+state count:164029
+max depth:67098
+========== random =============================
+search succeed!
+showing back trace
+23447:[3, 0, 2, 6, 1, 8, 5, 4, 7]
+summary:
+state count:42207
+max depth:23447
+========== astar + h1 =============================
+search succeed!
+showing back trace
+27789:[3, 0, 2, 6, 1, 8, 5, 4, 7]
+summary:
+state count:55001
+max depth:27789
+========== astar + random + h1 =============================
+search succeed!
+showing back trace
+37:[3, 0, 2, 6, 1, 8, 5, 4, 7]
+summary:
+state count:75
+max depth:37
+========== astar + h2 =============================
+search succeed!
+showing back trace
+7897:[3, 0, 2, 6, 1, 8, 5, 4, 7]
+summary:
+state count:15386
+max depth:7897
+========== astar + random + h2 =============================
+search succeed!
+showing back trace
+507:[3, 0, 2, 6, 1, 8, 5, 4, 7]
+summary:
+state count:966
+max depth:507
+==================================================
+==================dfs test3 round:9==============
+==================================================
+++++++++++++
+init:[1, 0, 2, 5, 3, 4, 8, 6, 7]
+target:[1, 3, 8, 6, 0, 2, 4, 5, 7]
++++++++++++++
+========== no random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:66743
+========== random =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:68033
+========== astar + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:71895
+========== astar + random + h1 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:71277
+========== astar + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:71648
+========== astar + random + h2 =============================
+search faild, check input!!!
+summary:
+state count:181440
+max depth:70938
+==================================================
+==================bfs test4 round:0==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[9, 3, 12, 13, 6, 7, 14, 0, 1, 5, 8, 2, 11, 15, 4, 10]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:8040
+max depth:342
+========== astar + random h1 =============================
+summary:
+state count:3099
+max depth:236
+========== astar h2 =============================
+summary:
+state count:16753
+max depth:287
+========== astar + random h2 =============================
+summary:
+state count:18055
+max depth:472
+==================================================
+==================bfs test4 round:1==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[12, 3, 14, 9, 6, 0, 1, 7, 4, 13, 8, 2, 15, 10, 11, 5]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:4439
+max depth:258
+========== astar + random h1 =============================
+summary:
+state count:3247
+max depth:237
+========== astar h2 =============================
+summary:
+state count:2024
+max depth:190
+========== astar + random h2 =============================
+summary:
+state count:10726
+max depth:333
+==================================================
+==================bfs test4 round:2==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[15, 1, 11, 8, 13, 6, 12, 7, 3, 2, 14, 0, 9, 10, 4, 5]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:1376
+max depth:185
+========== astar + random h1 =============================
+summary:
+state count:6885
+max depth:352
+========== astar h2 =============================
+summary:
+state count:7053
+max depth:351
+========== astar + random h2 =============================
+summary:
+state count:15269
+max depth:441
+==================================================
+==================bfs test4 round:3==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[3, 14, 5, 2, 8, 4, 12, 15, 11, 9, 6, 10, 1, 0, 7, 13]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:19939
+max depth:393
+========== astar + random h1 =============================
+summary:
+state count:6759
+max depth:292
+========== astar h2 =============================
+summary:
+state count:3613
+max depth:264
+========== astar + random h2 =============================
+summary:
+state count:6278
+max depth:371
+==================================================
+==================bfs test4 round:4==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[7, 3, 11, 4, 9, 6, 8, 14, 1, 2, 5, 13, 0, 12, 15, 10]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:90099
+max depth:878
+========== astar + random h1 =============================
+summary:
+state count:75803
+max depth:508
+========== astar h2 =============================
+summary:
+state count:4527
+max depth:287
+========== astar + random h2 =============================
+summary:
+state count:9737
+max depth:342
+==================================================
+==================bfs test4 round:5==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[13, 7, 12, 6, 2, 1, 9, 8, 4, 10, 5, 14, 11, 15, 0, 3]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:24470
+max depth:583
+========== astar + random h1 =============================
+summary:
+state count:4947
+max depth:281
+========== astar h2 =============================
+summary:
+state count:9058
+max depth:379
+========== astar + random h2 =============================
+summary:
+state count:2195
+max depth:184
+==================================================
+==================bfs test4 round:6==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[15, 8, 2, 1, 13, 9, 7, 3, 11, 14, 12, 4, 6, 0, 10, 5]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:4957
+max depth:259
+========== astar + random h1 =============================
+summary:
+state count:2393
+max depth:172
+========== astar h2 =============================
+summary:
+state count:2887
+max depth:306
+========== astar + random h2 =============================
+summary:
+state count:5042
+max depth:253
+==================================================
+==================bfs test4 round:7==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[8, 2, 7, 1, 6, 14, 11, 4, 5, 10, 12, 13, 0, 3, 9, 15]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:33018
+max depth:970
+========== astar + random h1 =============================
+summary:
+state count:79755
+max depth:489
+========== astar h2 =============================
+summary:
+state count:20334
+max depth:593
+========== astar + random h2 =============================
+summary:
+state count:3508
+max depth:163
+==================================================
+==================bfs test4 round:8==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[9, 1, 3, 11, 10, 13, 12, 7, 15, 4, 14, 5, 8, 2, 0, 6]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:6793
+max depth:244
+========== astar + random h1 =============================
+summary:
+state count:18842
+max depth:521
+========== astar h2 =============================
+summary:
+state count:5195
+max depth:205
+========== astar + random h2 =============================
+summary:
+state count:4118
+max depth:207
+==================================================
+==================bfs test4 round:9==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[10, 11, 7, 3, 6, 2, 9, 14, 15, 12, 5, 8, 4, 0, 13, 1]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:5047
+max depth:270
+========== astar + random h1 =============================
+summary:
+state count:7560
+max depth:267
+========== astar h2 =============================
+summary:
+state count:9519
+max depth:488
+========== astar + random h2 =============================
+summary:
+state count:11086
+max depth:391
+==================================================
+==================bfs test4 round:10==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[6, 14, 2, 9, 13, 12, 1, 11, 4, 3, 15, 5, 10, 8, 7, 0]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:69072
+max depth:667
+========== astar + random h1 =============================
+summary:
+state count:20946
+max depth:350
+========== astar h2 =============================
+summary:
+state count:3371
+max depth:286
+========== astar + random h2 =============================
+summary:
+state count:5120
+max depth:274
+==================================================
+==================bfs test4 round:11==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[2, 8, 0, 6, 12, 11, 4, 15, 7, 13, 14, 3, 5, 9, 1, 10]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:13319
+max depth:408
+========== astar + random h1 =============================
+summary:
+state count:14217
+max depth:298
+========== astar h2 =============================
+summary:
+state count:8176
+max depth:378
+========== astar + random h2 =============================
+summary:
+state count:6267
+max depth:226
+==================================================
+==================bfs test4 round:12==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[12, 11, 6, 3, 2, 14, 9, 8, 10, 0, 13, 7, 4, 5, 15, 1]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:2546
+max depth:159
+========== astar + random h1 =============================
+summary:
+state count:8385
+max depth:265
+========== astar h2 =============================
+summary:
+state count:3112
+max depth:174
+========== astar + random h2 =============================
+summary:
+state count:4269
+max depth:239
+==================================================
+==================bfs test4 round:13==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[2, 7, 3, 13, 1, 5, 9, 10, 6, 12, 15, 8, 4, 14, 11, 0]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:7031
+max depth:224
+========== astar + random h1 =============================
+summary:
+state count:4615
+max depth:217
+========== astar h2 =============================
+summary:
+state count:4720
+max depth:285
+========== astar + random h2 =============================
+summary:
+state count:4183
+max depth:299
+==================================================
+==================bfs test4 round:14==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[6, 9, 2, 1, 10, 8, 4, 13, 14, 15, 11, 7, 5, 0, 12, 3]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:16504
+max depth:373
+========== astar + random h1 =============================
+summary:
+state count:17111
+max depth:382
+========== astar h2 =============================
+summary:
+state count:10030
+max depth:372
+========== astar + random h2 =============================
+summary:
+state count:7814
+max depth:317
+==================================================
+==================bfs test4 round:15==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[14, 1, 5, 11, 8, 13, 2, 10, 4, 12, 0, 15, 3, 6, 9, 7]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:18029
+max depth:254
+========== astar + random h1 =============================
+summary:
+state count:3025
+max depth:226
+========== astar h2 =============================
+summary:
+state count:2985
+max depth:182
+========== astar + random h2 =============================
+summary:
+state count:3334
+max depth:220
+==================================================
+==================bfs test4 round:16==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[7, 2, 10, 9, 12, 15, 11, 1, 13, 6, 5, 8, 4, 0, 3, 14]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:5560
+max depth:430
+========== astar + random h1 =============================
+summary:
+state count:7291
+max depth:368
+========== astar h2 =============================
+summary:
+state count:6833
+max depth:326
+========== astar + random h2 =============================
+summary:
+state count:13085
+max depth:397
+==================================================
+==================bfs test4 round:17==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[9, 6, 12, 5, 8, 11, 15, 10, 0, 1, 7, 2, 3, 4, 14, 13]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:6868
+max depth:412
+========== astar + random h1 =============================
+summary:
+state count:15503
+max depth:385
+========== astar h2 =============================
+summary:
+state count:15061
+max depth:583
+========== astar + random h2 =============================
+summary:
+state count:6960
+max depth:309
+==================================================
+==================bfs test4 round:18==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[5, 13, 2, 9, 6, 15, 10, 8, 7, 3, 0, 4, 11, 14, 12, 1]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:15634
+max depth:233
+========== astar + random h1 =============================
+summary:
+state count:8157
+max depth:270
+========== astar h2 =============================
+summary:
+state count:4077
+max depth:251
+========== astar + random h2 =============================
+summary:
+state count:3906
+max depth:229
+==================================================
+==================bfs test4 round:19==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[6, 9, 7, 11, 5, 8, 4, 12, 13, 15, 14, 3, 10, 2, 1, 0]
++++++++++++++
+========== astar h1 =============================
+summary:
+state count:16053
+max depth:564
+========== astar + random h1 =============================
+summary:
+state count:102647
+max depth:947
+========== astar h2 =============================
+summary:
+state count:6717
+max depth:294
+========== astar + random h2 =============================
+summary:
+state count:5792
+max depth:237
+bfs test4: [18439.7, 20559.35, 7302.25, 7337.2], [405.3, 353.15, 324.05, 295.2]
+==================================================
+==================dfs test4 round:0==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[9, 3, 12, 13, 6, 7, 14, 0, 1, 5, 8, 2, 11, 15, 4, 10]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+105368:[9, 3, 12, 13, 6, 7, 14, 0, 1, 5, 8, 2, 11, 15, 4, 10]
+summary:
+state count:224346
+max depth:105368
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+5266:[9, 3, 12, 13, 6, 7, 14, 0, 1, 5, 8, 2, 11, 15, 4, 10]
+summary:
+state count:11131
+max depth:5266
+========== astar h2 =============================
+search succeed!
+showing back trace
+267752:[9, 3, 12, 13, 6, 7, 14, 0, 1, 5, 8, 2, 11, 15, 4, 10]
+summary:
+state count:576221
+max depth:267752
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+83180:[9, 3, 12, 13, 6, 7, 14, 0, 1, 5, 8, 2, 11, 15, 4, 10]
+summary:
+state count:179300
+max depth:83180
+==================================================
+==================dfs test4 round:1==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[12, 3, 14, 9, 6, 0, 1, 7, 4, 13, 8, 2, 15, 10, 11, 5]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+426724:[12, 3, 14, 9, 6, 0, 1, 7, 4, 13, 8, 2, 15, 10, 11, 5]
+summary:
+state count:930626
+max depth:426724
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+9542:[12, 3, 14, 9, 6, 0, 1, 7, 4, 13, 8, 2, 15, 10, 11, 5]
+summary:
+state count:22284
+max depth:9542
+========== astar h2 =============================
+search succeed!
+showing back trace
+17602:[12, 3, 14, 9, 6, 0, 1, 7, 4, 13, 8, 2, 15, 10, 11, 5]
+summary:
+state count:38826
+max depth:17602
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+12844:[12, 3, 14, 9, 6, 0, 1, 7, 4, 13, 8, 2, 15, 10, 11, 5]
+summary:
+state count:29824
+max depth:12844
+==================================================
+==================dfs test4 round:2==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[15, 1, 11, 8, 13, 6, 12, 7, 3, 2, 14, 0, 9, 10, 4, 5]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+46465:[15, 1, 11, 8, 13, 6, 12, 7, 3, 2, 14, 0, 9, 10, 4, 5]
+summary:
+state count:107539
+max depth:46465
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+15533:[15, 1, 11, 8, 13, 6, 12, 7, 3, 2, 14, 0, 9, 10, 4, 5]
+summary:
+state count:33377
+max depth:15533
+========== astar h2 =============================
+search succeed!
+showing back trace
+5729:[15, 1, 11, 8, 13, 6, 12, 7, 3, 2, 14, 0, 9, 10, 4, 5]
+summary:
+state count:12851
+max depth:5729
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+44291:[15, 1, 11, 8, 13, 6, 12, 7, 3, 2, 14, 0, 9, 10, 4, 5]
+summary:
+state count:95536
+max depth:44291
+==================================================
+==================dfs test4 round:3==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[3, 14, 5, 2, 8, 4, 12, 15, 11, 9, 6, 10, 1, 0, 7, 13]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+13880:[3, 14, 5, 2, 8, 4, 12, 15, 11, 9, 6, 10, 1, 0, 7, 13]
+summary:
+state count:29818
+max depth:13880
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+36642:[3, 14, 5, 2, 8, 4, 12, 15, 11, 9, 6, 10, 1, 0, 7, 13]
+summary:
+state count:78632
+max depth:36642
+========== astar h2 =============================
+search succeed!
+showing back trace
+91504:[3, 14, 5, 2, 8, 4, 12, 15, 11, 9, 6, 10, 1, 0, 7, 13]
+summary:
+state count:197187
+max depth:91504
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+28336:[3, 14, 5, 2, 8, 4, 12, 15, 11, 9, 6, 10, 1, 0, 7, 13]
+summary:
+state count:61216
+max depth:28336
+==================================================
+==================dfs test4 round:4==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[7, 3, 11, 4, 9, 6, 8, 14, 1, 2, 5, 13, 0, 12, 15, 10]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+80899:[7, 3, 11, 4, 9, 6, 8, 14, 1, 2, 5, 13, 0, 12, 15, 10]
+summary:
+state count:162784
+max depth:80899
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+87713:[7, 3, 11, 4, 9, 6, 8, 14, 1, 2, 5, 13, 0, 12, 15, 10]
+summary:
+state count:175370
+max depth:87713
+========== astar h2 =============================
+search succeed!
+showing back trace
+1013059:[7, 3, 11, 4, 9, 6, 8, 14, 1, 2, 5, 13, 0, 12, 15, 10]
+summary:
+state count:2116005
+max depth:1013059
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+17391:[7, 3, 11, 4, 9, 6, 8, 14, 1, 2, 5, 13, 0, 12, 15, 10]
+summary:
+state count:37256
+max depth:17391
+==================================================
+==================dfs test4 round:5==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[13, 7, 12, 6, 2, 1, 9, 8, 4, 10, 5, 14, 11, 15, 0, 3]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+38835:[13, 7, 12, 6, 2, 1, 9, 8, 4, 10, 5, 14, 11, 15, 0, 3]
+summary:
+state count:84488
+max depth:38835
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+12215:[13, 7, 12, 6, 2, 1, 9, 8, 4, 10, 5, 14, 11, 15, 0, 3]
+summary:
+state count:26055
+max depth:12215
+========== astar h2 =============================
+search succeed!
+showing back trace
+6259:[13, 7, 12, 6, 2, 1, 9, 8, 4, 10, 5, 14, 11, 15, 0, 3]
+summary:
+state count:13515
+max depth:6259
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+130165:[13, 7, 12, 6, 2, 1, 9, 8, 4, 10, 5, 14, 11, 15, 0, 3]
+summary:
+state count:280938
+max depth:130165
+==================================================
+==================dfs test4 round:6==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[15, 8, 2, 1, 13, 9, 7, 3, 11, 14, 12, 4, 6, 0, 10, 5]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+80914:[15, 8, 2, 1, 13, 9, 7, 3, 11, 14, 12, 4, 6, 0, 10, 5]
+summary:
+state count:172643
+max depth:80914
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+23688:[15, 8, 2, 1, 13, 9, 7, 3, 11, 14, 12, 4, 6, 0, 10, 5]
+summary:
+state count:50964
+max depth:23688
+========== astar h2 =============================
+search succeed!
+showing back trace
+44768:[15, 8, 2, 1, 13, 9, 7, 3, 11, 14, 12, 4, 6, 0, 10, 5]
+summary:
+state count:95775
+max depth:44768
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+269530:[15, 8, 2, 1, 13, 9, 7, 3, 11, 14, 12, 4, 6, 0, 10, 5]
+summary:
+state count:580416
+max depth:269530
+==================================================
+==================dfs test4 round:7==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[8, 2, 7, 1, 6, 14, 11, 4, 5, 10, 12, 13, 0, 3, 9, 15]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+9267:[8, 2, 7, 1, 6, 14, 11, 4, 5, 10, 12, 13, 0, 3, 9, 15]
+summary:
+state count:18648
+max depth:9267
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+411149:[8, 2, 7, 1, 6, 14, 11, 4, 5, 10, 12, 13, 0, 3, 9, 15]
+summary:
+state count:821002
+max depth:411149
+========== astar h2 =============================
+search succeed!
+showing back trace
+244343:[8, 2, 7, 1, 6, 14, 11, 4, 5, 10, 12, 13, 0, 3, 9, 15]
+summary:
+state count:510613
+max depth:244343
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+6543:[8, 2, 7, 1, 6, 14, 11, 4, 5, 10, 12, 13, 0, 3, 9, 15]
+summary:
+state count:13900
+max depth:6543
+==================================================
+==================dfs test4 round:8==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[9, 1, 3, 11, 10, 13, 12, 7, 15, 4, 14, 5, 8, 2, 0, 6]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+14775:[9, 1, 3, 11, 10, 13, 12, 7, 15, 4, 14, 5, 8, 2, 0, 6]
+summary:
+state count:32863
+max depth:14775
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+43423:[9, 1, 3, 11, 10, 13, 12, 7, 15, 4, 14, 5, 8, 2, 0, 6]
+summary:
+state count:92874
+max depth:43423
+========== astar h2 =============================
+search succeed!
+showing back trace
+43817:[9, 1, 3, 11, 10, 13, 12, 7, 15, 4, 14, 5, 8, 2, 0, 6]
+summary:
+state count:96470
+max depth:43817
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+55035:[9, 1, 3, 11, 10, 13, 12, 7, 15, 4, 14, 5, 8, 2, 0, 6]
+summary:
+state count:118756
+max depth:55035
+==================================================
+==================dfs test4 round:9==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[10, 11, 7, 3, 6, 2, 9, 14, 15, 12, 5, 8, 4, 0, 13, 1]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+7238:[10, 11, 7, 3, 6, 2, 9, 14, 15, 12, 5, 8, 4, 0, 13, 1]
+summary:
+state count:15399
+max depth:7238
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+78330:[10, 11, 7, 3, 6, 2, 9, 14, 15, 12, 5, 8, 4, 0, 13, 1]
+summary:
+state count:167383
+max depth:78330
+========== astar h2 =============================
+search succeed!
+showing back trace
+211230:[10, 11, 7, 3, 6, 2, 9, 14, 15, 12, 5, 8, 4, 0, 13, 1]
+summary:
+state count:453994
+max depth:211230
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+109832:[10, 11, 7, 3, 6, 2, 9, 14, 15, 12, 5, 8, 4, 0, 13, 1]
+summary:
+state count:236224
+max depth:109832
+==================================================
+==================dfs test4 round:10==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[6, 14, 2, 9, 13, 12, 1, 11, 4, 3, 15, 5, 10, 8, 7, 0]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+26884:[6, 14, 2, 9, 13, 12, 1, 11, 4, 3, 15, 5, 10, 8, 7, 0]
+summary:
+state count:54512
+max depth:26884
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+15608:[6, 14, 2, 9, 13, 12, 1, 11, 4, 3, 15, 5, 10, 8, 7, 0]
+summary:
+state count:31217
+max depth:15608
+========== astar h2 =============================
+search succeed!
+showing back trace
+2806:[6, 14, 2, 9, 13, 12, 1, 11, 4, 3, 15, 5, 10, 8, 7, 0]
+summary:
+state count:6103
+max depth:2806
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+2372:[6, 14, 2, 9, 13, 12, 1, 11, 4, 3, 15, 5, 10, 8, 7, 0]
+summary:
+state count:5093
+max depth:2372
+==================================================
+==================dfs test4 round:11==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[2, 8, 0, 6, 12, 11, 4, 15, 7, 13, 14, 3, 5, 9, 1, 10]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+590824:[2, 8, 0, 6, 12, 11, 4, 15, 7, 13, 14, 3, 5, 9, 1, 10]
+summary:
+state count:1204236
+max depth:590824
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+3372:[2, 8, 0, 6, 12, 11, 4, 15, 7, 13, 14, 3, 5, 9, 1, 10]
+summary:
+state count:7212
+max depth:3372
+========== astar h2 =============================
+search succeed!
+showing back trace
+11435452:[2, 8, 0, 6, 12, 11, 4, 15, 7, 13, 14, 3, 5, 9, 1, 10]
+summary:
+state count:23816285
+max depth:11435452
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+34978:[2, 8, 0, 6, 12, 11, 4, 15, 7, 13, 14, 3, 5, 9, 1, 10]
+summary:
+state count:74919
+max depth:34978
+==================================================
+==================dfs test4 round:12==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[12, 11, 6, 3, 2, 14, 9, 8, 10, 0, 13, 7, 4, 5, 15, 1]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+35347:[12, 11, 6, 3, 2, 14, 9, 8, 10, 0, 13, 7, 4, 5, 15, 1]
+summary:
+state count:82403
+max depth:35347
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+6123:[12, 11, 6, 3, 2, 14, 9, 8, 10, 0, 13, 7, 4, 5, 15, 1]
+summary:
+state count:14488
+max depth:6123
+========== astar h2 =============================
+search succeed!
+showing back trace
+5511:[12, 11, 6, 3, 2, 14, 9, 8, 10, 0, 13, 7, 4, 5, 15, 1]
+summary:
+state count:12656
+max depth:5511
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+2923:[12, 11, 6, 3, 2, 14, 9, 8, 10, 0, 13, 7, 4, 5, 15, 1]
+summary:
+state count:6685
+max depth:2923
+==================================================
+==================dfs test4 round:13==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[2, 7, 3, 13, 1, 5, 9, 10, 6, 12, 15, 8, 4, 14, 11, 0]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+41872:[2, 7, 3, 13, 1, 5, 9, 10, 6, 12, 15, 8, 4, 14, 11, 0]
+summary:
+state count:85096
+max depth:41872
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+497284:[2, 7, 3, 13, 1, 5, 9, 10, 6, 12, 15, 8, 4, 14, 11, 0]
+summary:
+state count:994358
+max depth:497284
+========== astar h2 =============================
+search succeed!
+showing back trace
+1404:[2, 7, 3, 13, 1, 5, 9, 10, 6, 12, 15, 8, 4, 14, 11, 0]
+summary:
+state count:3024
+max depth:1404
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+17168:[2, 7, 3, 13, 1, 5, 9, 10, 6, 12, 15, 8, 4, 14, 11, 0]
+summary:
+state count:36818
+max depth:17168
+==================================================
+==================dfs test4 round:14==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[6, 9, 2, 1, 10, 8, 4, 13, 14, 15, 11, 7, 5, 0, 12, 3]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+37180:[6, 9, 2, 1, 10, 8, 4, 13, 14, 15, 11, 7, 5, 0, 12, 3]
+summary:
+state count:79145
+max depth:37180
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+23116:[6, 9, 2, 1, 10, 8, 4, 13, 14, 15, 11, 7, 5, 0, 12, 3]
+summary:
+state count:49246
+max depth:23116
+========== astar h2 =============================
+search succeed!
+showing back trace
+56444:[6, 9, 2, 1, 10, 8, 4, 13, 14, 15, 11, 7, 5, 0, 12, 3]
+summary:
+state count:121618
+max depth:56444
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+22942:[6, 9, 2, 1, 10, 8, 4, 13, 14, 15, 11, 7, 5, 0, 12, 3]
+summary:
+state count:49477
+max depth:22942
+==================================================
+==================dfs test4 round:15==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[14, 1, 5, 11, 8, 13, 2, 10, 4, 12, 0, 15, 3, 6, 9, 7]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+30364:[14, 1, 5, 11, 8, 13, 2, 10, 4, 12, 0, 15, 3, 6, 9, 7]
+summary:
+state count:77686
+max depth:30364
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+4768:[14, 1, 5, 11, 8, 13, 2, 10, 4, 12, 0, 15, 3, 6, 9, 7]
+summary:
+state count:11350
+max depth:4768
+========== astar h2 =============================
+search succeed!
+showing back trace
+1158:[14, 1, 5, 11, 8, 13, 2, 10, 4, 12, 0, 15, 3, 6, 9, 7]
+summary:
+state count:2833
+max depth:1158
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+3358:[14, 1, 5, 11, 8, 13, 2, 10, 4, 12, 0, 15, 3, 6, 9, 7]
+summary:
+state count:7805
+max depth:3358
+==================================================
+==================dfs test4 round:16==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[7, 2, 10, 9, 12, 15, 11, 1, 13, 6, 5, 8, 4, 0, 3, 14]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+9516:[7, 2, 10, 9, 12, 15, 11, 1, 13, 6, 5, 8, 4, 0, 3, 14]
+summary:
+state count:20404
+max depth:9516
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+9304:[7, 2, 10, 9, 12, 15, 11, 1, 13, 6, 5, 8, 4, 0, 3, 14]
+summary:
+state count:19976
+max depth:9304
+========== astar h2 =============================
+search succeed!
+showing back trace
+47108:[7, 2, 10, 9, 12, 15, 11, 1, 13, 6, 5, 8, 4, 0, 3, 14]
+summary:
+state count:101341
+max depth:47108
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+30514:[7, 2, 10, 9, 12, 15, 11, 1, 13, 6, 5, 8, 4, 0, 3, 14]
+summary:
+state count:65374
+max depth:30514
+==================================================
+==================dfs test4 round:17==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[9, 6, 12, 5, 8, 11, 15, 10, 0, 1, 7, 2, 3, 4, 14, 13]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+111912:[9, 6, 12, 5, 8, 11, 15, 10, 0, 1, 7, 2, 3, 4, 14, 13]
+summary:
+state count:240043
+max depth:111912
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+15522:[9, 6, 12, 5, 8, 11, 15, 10, 0, 1, 7, 2, 3, 4, 14, 13]
+summary:
+state count:33289
+max depth:15522
+========== astar h2 =============================
+search succeed!
+showing back trace
+573664:[9, 6, 12, 5, 8, 11, 15, 10, 0, 1, 7, 2, 3, 4, 14, 13]
+summary:
+state count:1217499
+max depth:573664
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+67916:[9, 6, 12, 5, 8, 11, 15, 10, 0, 1, 7, 2, 3, 4, 14, 13]
+summary:
+state count:145997
+max depth:67916
+==================================================
+==================dfs test4 round:18==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[5, 13, 2, 9, 6, 15, 10, 8, 7, 3, 0, 4, 11, 14, 12, 1]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+13426:[5, 13, 2, 9, 6, 15, 10, 8, 7, 3, 0, 4, 11, 14, 12, 1]
+summary:
+state count:34441
+max depth:13426
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+2534:[5, 13, 2, 9, 6, 15, 10, 8, 7, 3, 0, 4, 11, 14, 12, 1]
+summary:
+state count:6055
+max depth:2534
+========== astar h2 =============================
+search succeed!
+showing back trace
+2744:[5, 13, 2, 9, 6, 15, 10, 8, 7, 3, 0, 4, 11, 14, 12, 1]
+summary:
+state count:6563
+max depth:2744
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+26232:[5, 13, 2, 9, 6, 15, 10, 8, 7, 3, 0, 4, 11, 14, 12, 1]
+summary:
+state count:61094
+max depth:26232
+==================================================
+==================dfs test4 round:19==============
+==================================================
+++++++++++++
+init:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+target:[6, 9, 7, 11, 5, 8, 4, 12, 13, 15, 14, 3, 10, 2, 1, 0]
++++++++++++++
+========== astar h1 =============================
+search succeed!
+showing back trace
+34184:[6, 9, 7, 11, 5, 8, 4, 12, 13, 15, 14, 3, 10, 2, 1, 0]
+summary:
+state count:69655
+max depth:34184
+========== astar + random h1 =============================
+search succeed!
+showing back trace
+11994:[6, 9, 7, 11, 5, 8, 4, 12, 13, 15, 14, 3, 10, 2, 1, 0]
+summary:
+state count:23964
+max depth:11994
+========== astar h2 =============================
+search succeed!
+showing back trace
+6142:[6, 9, 7, 11, 5, 8, 4, 12, 13, 15, 14, 3, 10, 2, 1, 0]
+summary:
+state count:13316
+max depth:6142
+========== astar + random h2 =============================
+search succeed!
+showing back trace
+3086:[6, 9, 7, 11, 5, 8, 4, 12, 13, 15, 14, 3, 10, 2, 1, 0]
+summary:
+state count:6646
+max depth:3086
+dfs test4: [186338.75, 133511.35, 1470634.75, 104663.7], [87793.7, 65656.3, 703924.8, 48431.8]

@@ -1,0 +1,68 @@
+dfs non-random:
+search successful, state count:181440
+"Elapsed time: 1951.266425 msecs"
+bfs non-random:
+search successful, state count:181440
+"Elapsed time: 112461.072667 msecs"
+dfs random 10 rounds:
+0th:
+search successful, state count:181320
+"Elapsed time: 2378.852283 msecs"
+1th:
+search successful, state count:14512
+"Elapsed time: 121.138548 msecs"
+2th:
+search successful, state count:115472
+"Elapsed time: 942.689147 msecs"
+3th:
+search successful, state count:122886
+"Elapsed time: 1005.276222 msecs"
+4th:
+search successful, state count:116301
+"Elapsed time: 927.215972 msecs"
+5th:
+search successful, state count:132502
+"Elapsed time: 1102.680093 msecs"
+6th:
+search successful, state count:27261
+"Elapsed time: 187.251284 msecs"
+7th:
+search successful, state count:130428
+"Elapsed time: 1072.265729 msecs"
+8th:
+search successful, state count:117560
+"Elapsed time: 969.589578 msecs"
+9th:
+search successful, state count:39229
+"Elapsed time: 288.729669 msecs"
+bfs random 10 rounds:
+0th
+search successful, state count:181173
+"Elapsed time: 120578.713849 msecs"
+1th
+search successful, state count:119611
+"Elapsed time: 46211.46811 msecs"
+2th
+search successful, state count:141565
+"Elapsed time: 67258.338782 msecs"
+3th
+search successful, state count:137807
+"Elapsed time: 57748.918656 msecs"
+4th
+search successful, state count:30808
+"Elapsed time: 2438.719256 msecs"
+5th
+search successful, state count:177023
+"Elapsed time: 106971.363758 msecs"
+6th
+search successful, state count:133520
+"Elapsed time: 53108.128873 msecs"
+7th
+search successful, state count:40673
+"Elapsed time: 4241.581167 msecs"
+8th
+search successful, state count:90759
+"Elapsed time: 24285.925818 msecs"
+9th
+search successful, state count:1389
+"Elapsed time: 14.574999 msecs"
